@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Whistleblowing
-build_property.ProjectDir = C:\Users\Megaport\OneDrive\Desktop\Scuola\Progetto Uomo-Macchina\Whistleblowing\Whistleblowing\
+build_property.ProjectDir = C:\dev\Unibo-Progetto-uomo\Whistleblowing\Whistleblowing\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

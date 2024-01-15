@@ -588,19 +588,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Megaport\\.nuget\\packages\\": {}
+    "C:\\Users\\abianchi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Megaport\\OneDrive\\Desktop\\Scuola\\Progetto Uomo-Macchina\\Whistleblowing\\Whistleblowing\\Whistleblowing.csproj",
+      "projectUniqueName": "C:\\dev\\Unibo-Progetto-uomo\\Whistleblowing\\Whistleblowing\\Whistleblowing.csproj",
       "projectName": "Whistleblowing",
-      "projectPath": "C:\\Users\\Megaport\\OneDrive\\Desktop\\Scuola\\Progetto Uomo-Macchina\\Whistleblowing\\Whistleblowing\\Whistleblowing.csproj",
-      "packagesPath": "C:\\Users\\Megaport\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Megaport\\OneDrive\\Desktop\\Scuola\\Progetto Uomo-Macchina\\Whistleblowing\\Whistleblowing\\obj\\",
+      "projectPath": "C:\\dev\\Unibo-Progetto-uomo\\Whistleblowing\\Whistleblowing\\Whistleblowing.csproj",
+      "packagesPath": "C:\\Users\\abianchi\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\Unibo-Progetto-uomo\\Whistleblowing\\Whistleblowing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Megaport\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abianchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -651,7 +651,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
